@@ -12,7 +12,7 @@ This is an app that takes in a users choices for 10 different questions and calc
 * JQuery
 ---
 
-[Link to Heroku](https:linkgoeshere.com)
+[Link to Heroku](https://express-13.herokuapp.com/)
 
 ---
 
@@ -25,7 +25,7 @@ This is an app that takes in a users choices for 10 different questions and calc
 
 ### Difficulties
 
-I had an all around difficult time with this assignment. I was straight up having stomach pains from the stress because the logic to push a users answers and compare them to find the friend wasnt working. Turns out it was a typo the whole time. The heroku was a whole other monster. All around a fun learning experience though. 10/10
+I had an all around difficult time with this assignment. I was straight up having stomach pains from the stress because the logic to push a users answers and compare them to find the friend wasnt working. Turns out it was a typo the whole time. The heroku was a whole other monster, but turns out my issue was coming from something the directions told me to do. All around a fun learning experience though. 10/10
 
 
 
